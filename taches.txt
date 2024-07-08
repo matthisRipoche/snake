@@ -1,0 +1,34 @@
+Cahier des charges 
+------------------------------------------
+Ecran de menu (page index.php){
+    inscription utilisateur + score en consequence
+}
+Ecran d'option (option.php){
+    Menu des touches
+    + a voir plus tard (personnalisation de la page et du jeu pour le joueur)
+    + option pour afficher les differents tableaux sauf score actuelle qui est obligatoire
+}
+Ecran de jeu (jeu.php){
+    1 serpent
+    Des pommes
+    terrain carré
+    tableau du score actuelle 
+    tableau score record pour tous les joueurs du monde
+    tableau des scores du joueur connecter
+}
+
+##########################################
+Taches en cours
+------------------------------------------
+Matthis : 
+
+
+
+------------------------------------------
+Justin : 
+
+
+
+##########################################
+Taches finis 
+------------------------------------------
