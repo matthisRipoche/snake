@@ -1,6 +1,33 @@
 .body_option {
-    color: red;
-    h1 {
-        color: red;
+    margin: 0;
+    position: relative;
+    height: 100vh;
+    background: green;
+    font-family: $fontMain;
+
+    .col_left {
+    }
+
+    .main {
+    }
+
+    .col_right {
+    }
+
+    .modal_option {
+        position: absolute;
+        z-index: 10;
+        border: 2px solid $white;
+        background: $black;
+        max-width: 720px;
+        width: 80%;
+        height: 80%;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+
+        h1 {
+            color: $white;
+        }
     }
 }

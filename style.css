@@ -1,6 +1,22 @@
 .body_option {
-  color: red;
+  margin: 0;
+  position: relative;
+  height: 100vh;
+  background: green;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.body_option h1 {
-  color: red;
+.body_option .modal_option {
+  position: absolute;
+  z-index: 10;
+  border: 2px solid #ffffff;
+  background: #000000;
+  max-width: 720px;
+  width: 80%;
+  height: 80%;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+.body_option .modal_option h1 {
+  color: #ffffff;
 }/*# sourceMappingURL=style.css.map */
