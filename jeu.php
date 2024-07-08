@@ -9,9 +9,7 @@
 </head>
 
 <body>
-    <h1>MENU</h1>
-    <a href="jeu.php">Play</a>
-    <a href="option.php">Option</a>
+
 </body>
 
 </html>
