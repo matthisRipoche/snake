@@ -21,12 +21,12 @@ Ecran de jeu (jeu.php){
 Taches en cours
 ------------------------------------------
 Matthis : 
-
+Construction page Option
 
 
 ------------------------------------------
 Justin : 
-
+Construction page Menu
 
 
 ##########################################
