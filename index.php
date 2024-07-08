@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 </head>
 
 <body>
-
+ <h1>Snake</h1>
 </body>
 
 </html>
