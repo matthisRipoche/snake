@@ -9,12 +9,12 @@
 
 <header class="header_index">
     <a href="option.php" class="option">Option</a>
-    <a href="inscription.php">Inscription/Connexion</a>
+    <a href="inscription.php" class="inscription">Se connecter</a>
 </header>
 
 <body class="body_index">
     <h1>Menu des jeux gratos</h1>
-    <a href="snake.php">Jeu Snake</a>
+    <a href="snake.php" class="snake">Jeu Snake</a>
 </body>
 
 <footer class="footer_index">
